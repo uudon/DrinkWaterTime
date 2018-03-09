@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrinkWaterTime</string>
+
+    <string name="tab1">微信</string>
+    <string name="tab2">联系人</string>
+    <string name="tab3">发现</string>
+    <string name="tab4">我</string>
+</resources>
